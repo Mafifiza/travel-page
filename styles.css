@@ -38,18 +38,6 @@ body {
   grid-gap: 20px;
 }
 
-.shape {
-  border-radius: 8px;
-}
-
-.top {
-  margin-top: 20px;
-}
-
-.bottom {
-  margin-bottom: 20px;
-}
-
 .card {
   background: white;
   margin: 30px 0;
